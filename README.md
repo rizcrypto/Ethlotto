@@ -1,4 +1,4 @@
-# Life Lottery
+#  Ether Lottery
 Open source lottery running 100% on Ethereum blockchain
 
 ## How to play:
