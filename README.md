@@ -5,6 +5,6 @@ Open source lottery running 100% on Ethereum blockchain
 
 #### 1 - Using Google Chrome
 #### 2 - Install <a href="https://chrome.google.com/webstore/detail/metamask/nkbihfbeogaeaoehlefnkodbefgpgknn?hl=en">MetaMask</a> create a account, unlock MetaMask and you're ready to go.
-#### 3 - Go to the url: https://rizcrypto/Ethlotto.github.io
+#### 3 - Go to the url: https://rizcrypto.github,io/Ethlotto
 
 ###### This lottery works on `main` network only.
